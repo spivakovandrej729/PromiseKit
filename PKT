@@ -1,0 +1,14 @@
+           // .delay(for: 2, scheduler: DispatchQueue.main)
+//            .measureInterval(using: DispatchQueue.main)
+//            .map { "\($0.timeInterval)" }
+           // .throttle(for: 2, scheduler: DispatchQueue.main, latest: true)
+           // .retry(3)
+           // .timeout(2, scheduler: DispatchQueue.main)
+//            .combineLatest(dataService.boolThroughPublisher)
+//            .compactMap{ (int, bool) in
+//                if bool {
+//                    return String(int)
+//                } else {
+//                    return nil
+//                }
+//            }
